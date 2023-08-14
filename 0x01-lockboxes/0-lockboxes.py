@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""A FUnction that performs wahala"""
+"""A Lock boxes that performs magic"""
 
 
 def canUnlockAll(boxes):
