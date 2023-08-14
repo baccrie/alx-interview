@@ -2,6 +2,7 @@
 
 """A FUnction that performs wahala"""
 
+
 def canUnlockAll(boxes):
     box = len(boxes) * [False]
     box[0] = True
